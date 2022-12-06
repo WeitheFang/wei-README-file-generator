@@ -30,20 +30,20 @@ const questions = [
     type: "input",
     message:
       "Please provide the usage information for this project. (Required)",
-    name: "information",
+    name: "usage",
   },
   //contribution guidelines
   {
     type: "input",
     message: "How should people contribute with this project. (Required)",
-    name: "contribution",
+    name: "contribute",
   },
   //test instructions
   {
     type: "input",
     message:
       "Please provide the test instructions for this project. (Required)",
-    name: "instruction",
+    name: "test",
   },
   //license
   {
@@ -76,7 +76,7 @@ const questions = [
   {
     type: "input",
     message: "Please enter your email address. (Required)",
-    name: "username",
+    name: "email",
   },
 ];
 
