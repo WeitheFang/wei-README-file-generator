@@ -1,8 +1,8 @@
 
-  # Readme file generator
+  # Test
 
   ---
-  Table of Content
+  ## Table of Content
   1. [Description](#description)
   2. [Installation](#installation)
   3. [Usage](#usage)
@@ -30,15 +30,16 @@
 
   ---
   ## Tests
-  tes
+  test
 
   ---
   ## License
-  License used for this project - [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  License used for this project:
+  * [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ---
   ## Contact information
   If you have any question about this project, please don't hesitate to contact me via:
-  GitHub: test
-  Email: test@gmail.com
+  * GitHub: test
+  * Email: test@gmail.com
 
