@@ -25,7 +25,7 @@ function generateMarkdown(data) {
   # ${data.title}
 
   ---
-  Table of Content
+  ## Table of Content
   1. [Description](#description)
   2. [Installation](#installation)
   3. [Usage](#usage)
@@ -57,13 +57,14 @@ function generateMarkdown(data) {
 
   ---
   ## License
-  License used for this project - ${renderLicenseBadge(data.license)}
+  License used for this project:
+  * ${renderLicenseBadge(data.license)}
 
   ---
   ## Contact information
   If you have any question about this project, please don't hesitate to contact me via:
-  GitHub: ${data.username}
-  Email: ${data.email}
+  * GitHub: ${data.username}
+  * Email: ${data.email}
 
 `;
 }
